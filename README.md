@@ -1,5 +1,6 @@
 # count-timer
-A countdown timer    
+A countdown timer    
+一个倒计时定时器
 
 **use like this:**
 
