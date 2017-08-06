@@ -1,7 +1,7 @@
 # count-timer
 A countdown timer     
 
-一个倒计时定时器
+一个倒计时定时器 可以实例化出多个
 
 **use like this:**
 
